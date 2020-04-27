@@ -20,6 +20,8 @@ run_analisys.R: The code that analises the data and satisfies the 5 steps requir
 
 dataset.txt: The text file which must be submitted. The result of step 5
 
+CODEBOOK.txt: explains the functions and variables in dataset
+
 <b> How to run it: </b>
 
 1. Unzip "getdata_projectfiles_UCI HAR Dataset.zip" in one directory
